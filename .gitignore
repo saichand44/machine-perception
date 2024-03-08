@@ -1,0 +1,5 @@
+# ignore the local vs code preferences
+.vscode/
+
+# ignore the local zip file
+*.zip
